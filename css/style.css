@@ -7,8 +7,8 @@
 .navbar {
     background-color: var(--color-1);
 }
-.carousel-inner{
-    height: 28rem;
+.carousel-inner > .item > img {
+    height: 38rem;
 }
 section{
     padding: 4rem 0;
